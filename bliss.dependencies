@@ -9,7 +9,7 @@
     "remote": "BlissRoms-Kernels",
     "repository": "android_kernel_lge_msm8974",
     "target_path": "kernel/lge/msm8974",
-    "revision": "mm6.0-testing"
+    "revision": "cm-13.0-testing"
   },
   {
     "remote": "cm",
