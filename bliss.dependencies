@@ -43,7 +43,7 @@
   },
   {
     "remote": "github",
-    "repository": "AICP/proprietary_vendor_lge",
+    "repository": "electrikjesus/proprietary_vendor_lge",
     "target_path": "vendor/lge",
     "revision": "mm6.0"
   }
