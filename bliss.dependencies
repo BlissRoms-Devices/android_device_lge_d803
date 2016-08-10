@@ -45,6 +45,6 @@
     "remote": "github",
     "repository": "electrikjesus/proprietary_vendor_lge",
     "target_path": "vendor/lge",
-    "revision": "mm6.0"
+    "revision": "mm6.0-testing"
   }
 ]
