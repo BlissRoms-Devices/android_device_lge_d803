@@ -3,7 +3,7 @@
     "remote": "github", 
     "repository": "BlissRoms-Devices/android_device_lge_g2-common",
     "target_path": "device/lge/g2-common",
-    "revision": "mm6.0-t2"
+    "revision": "mm6.0"
   },
   {
     "remote": "BlissRoms-Kernels",
